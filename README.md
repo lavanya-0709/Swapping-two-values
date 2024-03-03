@@ -18,8 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+```
+'''Swapping of two values
+Developed by:Lavanya S
+Rgister number:212223230112
+'''
+surya_data=int(input())
+vijay_data=int(input())
+temp=surya_data
+surya_data=vijay_data
+vijay_data=temp
+print("Swapped values are:",surya_data,vijay_data)
+```
+## OUTPUT:
+![alt text](SSS-1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
